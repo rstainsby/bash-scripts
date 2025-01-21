@@ -1,7 +1,7 @@
 # This script helps me spin up a new project
 # It ensures that my projects go to the correct directory
 
-GIT_DIR = $HOME/Documents/GIT
+GIT_DIR=$HOME/Documents/GIT
 
 echo Why are you making this project? 🤔
 
