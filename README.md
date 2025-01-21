@@ -1,12 +1,10 @@
 # Bash Scripts
 
-This project is just a place for me to store some handy bash scripts.
-
-These are obviously open for anyone to use and change as they like.
+This project is just a place for me to store some handy bash scripts. These are obviously open for anyone to use and change as they like.
 
 # Setup
 
-I'd adding any commands you use as aliases, this allows you to call `new-project` rather than `bash "$/YOUR/GIT/DIR/new-project.bash"`.
+To make these scripts easy to use, I'd add any commands you want to use as aliases - aliases allow you to type `new-project` rather than `bash "$/YOUR/GIT/DIR/new-project.bash"` to call a script.
 
 You can do this on Mac (Catalina OS and above).
 
