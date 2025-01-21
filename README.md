@@ -10,8 +10,7 @@ You can do this on Mac (Catalina OS and above).
 
 1. Open the zsh shell environment variables file:
 
-bash
-```
+bash ```
 vi ~/.zsenv
 ```
 
@@ -19,8 +18,7 @@ vi ~/.zsenv
 
 3. Add the alias:
 
-bash
-```
+bash ```
 alias new-project="bash $/YOUR/GIT/DIR/new-project.bash"
 ```
 
